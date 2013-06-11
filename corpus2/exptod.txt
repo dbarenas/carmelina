@@ -1,0 +1,10 @@
+corpus2norton.txt.I,home network[-2],Configuring it for a home network was almost impossible.
+corpus2norton.txt.I,network[-3],Multiple users on one machine never seemed to behave like you'd expect.
+corpus2norton.txt.I,alerts[-2],While I was trying to play Half Life 2 it started popping up with "alerts" every twenty seconds (literally) warning me my antivirus protection was off.
+corpus2norton.txt.I,alerts[-2],But it wouldn't let me turn the AV protection back on and it wouldn't stop with the alerts.
+corpus2norton.txt.I,uninstall[-2],I had tried to uninstall Norton Internet Security a few weeks ago and it wouldn't let me do that either.
+corpus2norton.txt.I,Uninstall[-1][u],I tried it again this morning and it said I didn't have the required "permissions" and lacked proper administrator status.
+corpus2norton.txt.I,Symantec customer service[-3],Of course if you try to reach Symantec customer service you get useless automated systems unless you want to pay $30 per incident.
+corpus2norton.txt.I,uninstallation[-1],This time it started the uninstallation process then I left for work. I think it will work. I hope it will work.
+corpus2norton.txt.I,Symantec[-3],I simply hate Symantec. I swear if I could have physically ripped that software out of my computer with my bare bleeding hands I would have.
+corpus2norton.txt.I,products[+3],Their products have been great and have saved my bacon on numerous occasions.
